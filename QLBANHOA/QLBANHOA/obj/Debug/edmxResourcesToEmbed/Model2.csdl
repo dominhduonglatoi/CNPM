@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNHANVIENModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DSNV">
+    <Key>
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MANV" Type="String" MaxLength="7" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENVN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GIOITINH" Type="String" MaxLength="3" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="70" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="TKNVs" Relationship="Self.FK_DSNV_TKNV" FromRole="DSNV" ToRole="TKNV" />
+  </EntityType>
+  <EntityType Name="TKNV">
+    <Key>
+      <PropertyRef Name="MATK" />
+    </Key>
+    <Property Name="MATK" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MANV" Type="String" MaxLength="7" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DSNV" Relationship="Self.FK_DSNV_TKNV" FromRole="TKNV" ToRole="DSNV" />
+  </EntityType>
+  <Association Name="FK_DSNV_TKNV">
+    <End Role="DSNV" Type="Self.DSNV" Multiplicity="1" />
+    <End Role="TKNV" Type="Self.TKNV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DSNV">
+        <PropertyRef Name="MANV" />
+      </Principal>
+      <Dependent Role="TKNV">
+        <PropertyRef Name="MANV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLNHANVIENEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DSNVs" EntityType="Self.DSNV" />
+    <EntitySet Name="TKNVs" EntityType="Self.TKNV" />
+    <AssociationSet Name="FK_DSNV_TKNV" Association="Self.FK_DSNV_TKNV">
+      <End Role="DSNV" EntitySet="DSNVs" />
+      <End Role="TKNV" EntitySet="TKNVs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

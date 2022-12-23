@@ -1,0 +1,493 @@
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CopyComplete
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+C:\Users\admin\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+C:\Users\PC\Downloads\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+E:\Visual\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CopyComplete
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+E:\Visual\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+E:\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+E:\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+E:\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+E:\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+E:\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+E:\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+E:\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Hoa.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Main.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe.licenses
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_KHang.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_PGiao.resources
+E:\FY\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_VChuyen.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Hoa.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_KHang.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Main.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_PGiao.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_VChuyen.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe.licenses
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+E:\FY\New folder\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe.config
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.exe
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\QLBANHOA.pdb
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Data.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\EntityFramework.SqlServer.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.AssemblyReference.cache
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_Hoa.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_add_KhachHang.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Hoa.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_KHang.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Main.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_PGiao.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_VChuyen.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_Main.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_phieuhang.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_vanchuyen.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.Properties.Resources.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.GenerateResource.cache
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe.licenses
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CoreCompileInputs.cache
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.csproj.CopyComplete
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.exe
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.pdb
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_Login.resources
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Images.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TDTU\CNPM\QLBANHOA\QLBANHOA\obj\Debug\QLBANHOA.frm_DE_BaoCao.resources

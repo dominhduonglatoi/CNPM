@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="QLBANHOAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DM_HOA">
+          <Key>
+            <PropertyRef Name="MAHOA" />
+          </Key>
+          <Property Name="MAHOA" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="TENHOA" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="MAUSAC" Type="nvarchar" MaxLength="15" Nullable="false" />
+          <Property Name="GIA" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="GIAPHIVANCHUYEN">
+          <Key>
+            <PropertyRef Name="MAKHUVUC" />
+          </Key>
+          <Property Name="MAKHUVUC" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="TENKHUVUC" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="KHOANGCACH" Type="float" Nullable="false" />
+          <Property Name="GIA" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="KHACHHANG">
+          <Key>
+            <PropertyRef Name="MAKHACHHANG" />
+          </Key>
+          <Property Name="MAKHACHHANG" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="HOTEN" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="DIACHI" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="SODT" Type="char" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PHIEUDAT">
+          <Key>
+            <PropertyRef Name="SOPHIEU" />
+          </Key>
+          <Property Name="SOPHIEU" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="MAHOA" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="MAKHACHHANG" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="TENNGUOINHAN" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="DIACHINGUOINHAN" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="MAKHUVUC" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="NGAYGIAO" Type="date" Nullable="false" />
+          <Property Name="GIOGIAO" Type="time" Precision="7" />
+          <Property Name="DAGIAO" Type="nvarchar" MaxLength="15" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_DM_HOA_PHIEUDAT">
+          <End Role="DM_HOA" Type="Self.DM_HOA" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DM_HOA">
+              <PropertyRef Name="MAHOA" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAHOA" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GIAPHIVANCHUYEN_PHIEUDAT">
+          <End Role="GIAPHIVANCHUYEN" Type="Self.GIAPHIVANCHUYEN" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GIAPHIVANCHUYEN">
+              <PropertyRef Name="MAKHUVUC" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAKHUVUC" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KHACHHANG_PHIEUDAT">
+          <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KHACHHANG">
+              <PropertyRef Name="MAKHACHHANG" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAKHACHHANG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLBANHOAModelStoreContainer">
+          <EntitySet Name="DM_HOA" EntityType="Self.DM_HOA" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GIAPHIVANCHUYEN" EntityType="Self.GIAPHIVANCHUYEN" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PHIEUDAT" EntityType="Self.PHIEUDAT" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_DM_HOA_PHIEUDAT" Association="Self.FK_DM_HOA_PHIEUDAT">
+            <End Role="DM_HOA" EntitySet="DM_HOA" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GIAPHIVANCHUYEN_PHIEUDAT" Association="Self.FK_GIAPHIVANCHUYEN_PHIEUDAT">
+            <End Role="GIAPHIVANCHUYEN" EntitySet="GIAPHIVANCHUYEN" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KHACHHANG_PHIEUDAT" Association="Self.FK_KHACHHANG_PHIEUDAT">
+            <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QLBANHOAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DM_HOA">
+          <Key>
+            <PropertyRef Name="MAHOA" />
+          </Key>
+          <Property Name="MAHOA" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="TENHOA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="MAUSAC" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="GIA" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PHIEUDATs" Relationship="Self.FK_DM_HOA_PHIEUDAT" FromRole="DM_HOA" ToRole="PHIEUDAT" />
+        </EntityType>
+        <EntityType Name="GIAPHIVANCHUYEN">
+          <Key>
+            <PropertyRef Name="MAKHUVUC" />
+          </Key>
+          <Property Name="MAKHUVUC" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="TENKHUVUC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="KHOANGCACH" Type="Double" Nullable="false" />
+          <Property Name="GIA" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PHIEUDATs" Relationship="Self.FK_GIAPHIVANCHUYEN_PHIEUDAT" FromRole="GIAPHIVANCHUYEN" ToRole="PHIEUDAT" />
+        </EntityType>
+        <EntityType Name="KHACHHANG">
+          <Key>
+            <PropertyRef Name="MAKHACHHANG" />
+          </Key>
+          <Property Name="MAKHACHHANG" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="HOTEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SODT" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="PHIEUDATs" Relationship="Self.FK_KHACHHANG_PHIEUDAT" FromRole="KHACHHANG" ToRole="PHIEUDAT" />
+        </EntityType>
+        <EntityType Name="PHIEUDAT">
+          <Key>
+            <PropertyRef Name="SOPHIEU" />
+          </Key>
+          <Property Name="SOPHIEU" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="MAHOA" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="MAKHACHHANG" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="TENNGUOINHAN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DIACHINGUOINHAN" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="MAKHUVUC" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="NGAYGIAO" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="GIOGIAO" Type="Time" Precision="7" />
+          <Property Name="DAGIAO" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="DM_HOA" Relationship="Self.FK_DM_HOA_PHIEUDAT" FromRole="PHIEUDAT" ToRole="DM_HOA" />
+          <NavigationProperty Name="GIAPHIVANCHUYEN" Relationship="Self.FK_GIAPHIVANCHUYEN_PHIEUDAT" FromRole="PHIEUDAT" ToRole="GIAPHIVANCHUYEN" />
+          <NavigationProperty Name="KHACHHANG" Relationship="Self.FK_KHACHHANG_PHIEUDAT" FromRole="PHIEUDAT" ToRole="KHACHHANG" />
+        </EntityType>
+        <Association Name="FK_DM_HOA_PHIEUDAT">
+          <End Role="DM_HOA" Type="Self.DM_HOA" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DM_HOA">
+              <PropertyRef Name="MAHOA" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAHOA" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GIAPHIVANCHUYEN_PHIEUDAT">
+          <End Role="GIAPHIVANCHUYEN" Type="Self.GIAPHIVANCHUYEN" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GIAPHIVANCHUYEN">
+              <PropertyRef Name="MAKHUVUC" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAKHUVUC" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KHACHHANG_PHIEUDAT">
+          <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="1" />
+          <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KHACHHANG">
+              <PropertyRef Name="MAKHACHHANG" />
+            </Principal>
+            <Dependent Role="PHIEUDAT">
+              <PropertyRef Name="MAKHACHHANG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLBANHOAEntities6" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DM_HOA" EntityType="Self.DM_HOA" />
+          <EntitySet Name="GIAPHIVANCHUYENs" EntityType="Self.GIAPHIVANCHUYEN" />
+          <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
+          <EntitySet Name="PHIEUDATs" EntityType="Self.PHIEUDAT" />
+          <AssociationSet Name="FK_DM_HOA_PHIEUDAT" Association="Self.FK_DM_HOA_PHIEUDAT">
+            <End Role="DM_HOA" EntitySet="DM_HOA" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDATs" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GIAPHIVANCHUYEN_PHIEUDAT" Association="Self.FK_GIAPHIVANCHUYEN_PHIEUDAT">
+            <End Role="GIAPHIVANCHUYEN" EntitySet="GIAPHIVANCHUYENs" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDATs" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KHACHHANG_PHIEUDAT" Association="Self.FK_KHACHHANG_PHIEUDAT">
+            <End Role="KHACHHANG" EntitySet="KHACHHANGs" />
+            <End Role="PHIEUDAT" EntitySet="PHIEUDATs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QLBANHOAModelStoreContainer" CdmEntityContainer="QLBANHOAEntities6">
+          <EntitySetMapping Name="DM_HOA">
+            <EntityTypeMapping TypeName="QLBANHOAModel.DM_HOA">
+              <MappingFragment StoreEntitySet="DM_HOA">
+                <ScalarProperty Name="MAHOA" ColumnName="MAHOA" />
+                <ScalarProperty Name="TENHOA" ColumnName="TENHOA" />
+                <ScalarProperty Name="MAUSAC" ColumnName="MAUSAC" />
+                <ScalarProperty Name="GIA" ColumnName="GIA" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GIAPHIVANCHUYENs">
+            <EntityTypeMapping TypeName="QLBANHOAModel.GIAPHIVANCHUYEN">
+              <MappingFragment StoreEntitySet="GIAPHIVANCHUYEN">
+                <ScalarProperty Name="MAKHUVUC" ColumnName="MAKHUVUC" />
+                <ScalarProperty Name="TENKHUVUC" ColumnName="TENKHUVUC" />
+                <ScalarProperty Name="KHOANGCACH" ColumnName="KHOANGCACH" />
+                <ScalarProperty Name="GIA" ColumnName="GIA" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KHACHHANGs">
+            <EntityTypeMapping TypeName="QLBANHOAModel.KHACHHANG">
+              <MappingFragment StoreEntitySet="KHACHHANG">
+                <ScalarProperty Name="MAKHACHHANG" ColumnName="MAKHACHHANG" />
+                <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+                <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+                <ScalarProperty Name="SODT" ColumnName="SODT" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PHIEUDATs">
+            <EntityTypeMapping TypeName="QLBANHOAModel.PHIEUDAT">
+              <MappingFragment StoreEntitySet="PHIEUDAT">
+                <ScalarProperty Name="SOPHIEU" ColumnName="SOPHIEU" />
+                <ScalarProperty Name="MAHOA" ColumnName="MAHOA" />
+                <ScalarProperty Name="MAKHACHHANG" ColumnName="MAKHACHHANG" />
+                <ScalarProperty Name="TENNGUOINHAN" ColumnName="TENNGUOINHAN" />
+                <ScalarProperty Name="DIACHINGUOINHAN" ColumnName="DIACHINGUOINHAN" />
+                <ScalarProperty Name="MAKHUVUC" ColumnName="MAKHUVUC" />
+                <ScalarProperty Name="NGAYGIAO" ColumnName="NGAYGIAO" />
+                <ScalarProperty Name="GIOGIAO" ColumnName="GIOGIAO" />
+                <ScalarProperty Name="DAGIAO" ColumnName="DAGIAO" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

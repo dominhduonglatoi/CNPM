@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLBANHOAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DM_HOA">
+    <Key>
+      <PropertyRef Name="MAHOA" />
+    </Key>
+    <Property Name="MAHOA" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="TENHOA" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MAUSAC" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="GIA" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GIAPHIVANCHUYEN">
+    <Key>
+      <PropertyRef Name="MAKHUVUC" />
+    </Key>
+    <Property Name="MAKHUVUC" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="TENKHUVUC" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="KHOANGCACH" Type="float" Nullable="false" />
+    <Property Name="GIA" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MAKHACHHANG" />
+    </Key>
+    <Property Name="MAKHACHHANG" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="SODT" Type="char" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PHIEUDAT">
+    <Key>
+      <PropertyRef Name="SOPHIEU" />
+    </Key>
+    <Property Name="SOPHIEU" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="MAHOA" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="MAKHACHHANG" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="TENNGUOINHAN" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DIACHINGUOINHAN" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="MAKHUVUC" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="NGAYGIAO" Type="date" Nullable="false" />
+    <Property Name="GIOGIAO" Type="time" Precision="7" />
+    <Property Name="DAGIAO" Type="nvarchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DM_HOA_PHIEUDAT">
+    <End Role="DM_HOA" Type="Self.DM_HOA" Multiplicity="1" />
+    <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DM_HOA">
+        <PropertyRef Name="MAHOA" />
+      </Principal>
+      <Dependent Role="PHIEUDAT">
+        <PropertyRef Name="MAHOA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAPHIVANCHUYEN_PHIEUDAT">
+    <End Role="GIAPHIVANCHUYEN" Type="Self.GIAPHIVANCHUYEN" Multiplicity="1" />
+    <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIAPHIVANCHUYEN">
+        <PropertyRef Name="MAKHUVUC" />
+      </Principal>
+      <Dependent Role="PHIEUDAT">
+        <PropertyRef Name="MAKHUVUC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KHACHHANG_PHIEUDAT">
+    <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="1" />
+    <End Role="PHIEUDAT" Type="Self.PHIEUDAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MAKHACHHANG" />
+      </Principal>
+      <Dependent Role="PHIEUDAT">
+        <PropertyRef Name="MAKHACHHANG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLBANHOAModelStoreContainer">
+    <EntitySet Name="DM_HOA" EntityType="Self.DM_HOA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GIAPHIVANCHUYEN" EntityType="Self.GIAPHIVANCHUYEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHIEUDAT" EntityType="Self.PHIEUDAT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DM_HOA_PHIEUDAT" Association="Self.FK_DM_HOA_PHIEUDAT">
+      <End Role="DM_HOA" EntitySet="DM_HOA" />
+      <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAPHIVANCHUYEN_PHIEUDAT" Association="Self.FK_GIAPHIVANCHUYEN_PHIEUDAT">
+      <End Role="GIAPHIVANCHUYEN" EntitySet="GIAPHIVANCHUYEN" />
+      <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KHACHHANG_PHIEUDAT" Association="Self.FK_KHACHHANG_PHIEUDAT">
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+      <End Role="PHIEUDAT" EntitySet="PHIEUDAT" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
